@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Make awesome applications"
+    },
+    {
+      "id": 2,
+      "name": "Play squash"
+    },
+    {
+      "id": 3,
+      "name": "Deadlift"
+    },
+    {
+      "id": 4,
+      "name": "Squat"
+    },
+    {
+      "name": "soundriya",
+      "id": 5
+    }
+  ]
+}
